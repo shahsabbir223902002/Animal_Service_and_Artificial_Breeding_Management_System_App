@@ -855,7 +855,7 @@ The demo covers:
 
 You can also add screenshots of the main application screens here:
 
-![Amratali Artificial Breeding & Animal Service App](https://github.com/shahsabbir223902002/The-Gymnasium-App-System/blob/main/The%20Gymnasium%20App%20System.jpeg)
+![Amratali Artificial Breeding & Animal Service App](https://github.com/shahsabbir223902002/Animal_Service_and_Artificial_Breeding_Management_System_App/blob/main/App%20Features%20SS.jpeg)
 
 
 
