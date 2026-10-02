@@ -825,7 +825,7 @@ Before public distribution or open-source publication, choose an appropriate sof
 A complete demonstration of the **Rabby Animals Official** Android application is available below.
 
 **Demo Video:**  
-[▶️ Watch Rabby Animals Official App Demo](YOUR_DEMO_VIDEO_LINK_HERE)
+[▶️ Watch Rabby Animals Official App Demo](https://github.com/shahsabbir223902002/Animal_Service_and_Artificial_Breeding_Management_System_App/blob/main/App%20video.mp4)
 
 The demo covers:
 
@@ -849,7 +849,7 @@ The demo covers:
 - 📱 Offline-First Functionality
 - ☁️ Data Synchronization
 
-> **Note:** Replace `YOUR_DEMO_VIDEO_LINK_HERE` with the actual YouTube, Google Drive, GitHub, or other accessible demo-video link.
+> **Note:** Replace `https://github.com/shahsabbir223902002/Animal_Service_and_Artificial_Breeding_Management_System_App/blob/main/App%20video.mp4` with the actual YouTube, Google Drive, GitHub, or other accessible demo-video link.
 
 ### 📸 Application Screenshots
 
