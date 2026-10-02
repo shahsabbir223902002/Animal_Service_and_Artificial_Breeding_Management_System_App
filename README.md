@@ -855,15 +855,7 @@ The demo covers:
 
 You can also add screenshots of the main application screens here:
 
-```text
-Login Screen
-Dashboard
-Owner Profile
-Animal Profile
-Treatment History
-AI Management
-Reports
-Settings
+![Amratali Artificial Breeding & Animal Service App](https://github.com/shahsabbir223902002/The-Gymnasium-App-System/blob/main/The%20Gymnasium%20App%20System.jpeg)
 
 
 
